@@ -1,0 +1,5 @@
+﻿  GLclass.cpp
+  GLTest3.cpp
+d:\opengl\gltest3\gltest3\gltest3.cpp(33): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  GLTest3.vcxproj -> D:\opengl\GLTest3\Debug\GLTest3.exe

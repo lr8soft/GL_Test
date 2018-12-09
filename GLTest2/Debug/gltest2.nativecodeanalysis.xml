@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\opengl\gltest2\gltest2\gltest2\</FILEPATH>
+      <FILENAME>gltest2.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>传递了一个非整数作为_Param_(2)，而对“printf”的调用需要一个整数，实际类型: “double”: 如果当前传递的是一个指针值，则应使用 %p。</DESCRIPTION>
+    <FUNCTION>showscreen</FUNCTION>
+    <DECORATED>?showscreen@@YAXXZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\opengl\gltest2\gltest2\gltest2\</FILEPATH>
+      <FILENAME>gltest2.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>传递了一个非整数作为_Param_(3)，而对“printf”的调用需要一个整数，实际类型: “double”: 如果当前传递的是一个指针值，则应使用 %p。</DESCRIPTION>
+    <FUNCTION>showscreen</FUNCTION>
+    <DECORATED>?showscreen@@YAXXZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\opengl\gltest2\gltest2\gltest2\</FILEPATH>
+      <FILENAME>gltest2.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>传递了一个非整数作为_Param_(4)，而对“printf”的调用需要一个整数，实际类型: “double”: 如果当前传递的是一个指针值，则应使用 %p。</DESCRIPTION>
+    <FUNCTION>showscreen</FUNCTION>
+    <DECORATED>?showscreen@@YAXXZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\opengl\gltest2\gltest2\gltest2\</FILEPATH>
+      <FILENAME>gltest2.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>传递了一个非整数作为_Param_(5)，而对“printf”的调用需要一个整数，实际类型: “double”: 如果当前传递的是一个指针值，则应使用 %p。</DESCRIPTION>
+    <FUNCTION>showscreen</FUNCTION>
+    <DECORATED>?showscreen@@YAXXZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
