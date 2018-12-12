@@ -1,0 +1,5 @@
+﻿  GLTest7.cpp
+d:\opengl\gttest7\gttest7\gltest7.cpp(3): warning C4326: “main”的返回类型应为“int”而非“void”
+  GLTestClass.cpp
+  正在生成代码...
+  GTTest7.vcxproj -> D:\opengl\GTTest7\Debug\GTTest7.exe
